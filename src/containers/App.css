@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'electrical Regular';
+font-style: normal;
+font-weight: normal;
+src: local('electrical Regular'), url('electrical.woff') format('woff');
+}
+h1 {
+	font-family: "electrical Regular";
+	color: #0ccac4;
+	font-weight: 200;
+}
